@@ -1,0 +1,21 @@
+{
+  "pills": [
+    {
+      "id": "supabase-outage",
+      "severity": "error",
+      "title": "Service issues",
+      "rows": [
+        {
+          "icon": "danger",
+          "title": "Recipes may not load",
+          "caption": "We're having trouble reaching our servers. We're on it."
+        },
+        {
+          "icon": "cart",
+          "title": "Groceries still work",
+          "caption": "Your lists are on this device and sync once we're back."
+        }
+      ]
+    }
+  ]
+}
